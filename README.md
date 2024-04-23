@@ -1,7 +1,10 @@
 # Graph Pooling Inference Network for Text-based VQA
+
 This repository contains the key code for ACM TOMM 2024 paper: [Graph Pooling Inference Network for Text-based VQA](https://dl.acm.org/doi/10.1145/3634918)
 
 
+![image](https://github.com/zhousheng97/GPIN/blob/main/GPIN.png)
+<p align="center">The framework of Graph Pooling Inference Network (GPIN).</p>
 
 
 ### Citation
@@ -19,4 +22,4 @@ If you find GPIN useful for your research and applications, please cite using th
 }
 ```
 ## Acknowledgements
-This work is based on [M4C](https://github.com/facebookresearch/mmf/tree/project/m4c)
+This work is based on [M4C](https://github.com/facebookresearch/mmf/tree/project/m4c).
